@@ -1,19 +1,4 @@
-print("Hello") #megjegyzes
-'''
-tobb soros
-megjegyzes
-'''
-a = 2**3#hatvanyozas
-b = 1.2
-print(b)
-c = 2 + 3j
-print (type(a))#tipuslekerdezes
-print (type(b))
-print (type(c))
-d=2 // 3#egesz osztas
-e=2 % 3#maradek
-s="abc"
-r="12"
+
 print (s+r)
 print (20*s+r)
 type(s) is str #logikai
